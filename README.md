@@ -3,7 +3,7 @@ Sudoku problem solve modern javascript ES6 standard
 
 Node js using to implement express generator
 
-command to start: npm start 
+command to run: npm start 
 
 after running path
 http://localhost:3004/
